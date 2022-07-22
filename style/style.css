@@ -137,6 +137,12 @@ color: #9F9F9F;
         align-items: flex-start;
         justify-content: flex-start;
     }
+    .course-author{
+       margin: 5px;
+    }
+    .course-durution{
+        margin: 10px 10px;
+    }
 }
 
 /* for Tablet devices */

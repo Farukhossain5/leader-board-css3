@@ -130,6 +130,7 @@ color: #9F9F9F;
     }
     .blog{
         display: flex;
+        flex-direction: column;
     }
     .course-info{
         display: flex;
